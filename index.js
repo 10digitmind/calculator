@@ -25,7 +25,7 @@ numbers.forEach((number) => {
 cancel.addEventListener("click", function () {
   result.innerHTML = "";
   display = false;
-  output.innerHTML = "";
+  output.innerHTML = "0";
 });
 
 // 
